@@ -12,7 +12,7 @@
 			<a class="nav-link" href="#">Link 2</a>
 		</li>
 
-			<?php ظظecho qrcdr()->langMenu('menu'); ?>
+			<?php //echo qrcdr()->langMenu('menu'); ?>
 		</ul>
 	</div>
 </nav> -->
